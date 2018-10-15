@@ -1,6 +1,6 @@
 # Materia OSX
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jcmljunior/Materia-OSX/master/preview.png" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/jcmljunior/Materia-OSX/master/preview.jpeg" alt="preview"/>
 </p>
 
 Materia OSX is aurorae theme that mimics Yosemite window decoration, with [Materia](https://github.com/PapirusDevelopmentTeam/materia-kde) colors, based on [Breezemite](https://github.com/andreyorst/Breezemite).
