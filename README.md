@@ -1,4 +1,3 @@
-# Materia OSX
 <p align="center">
   <img src="https://raw.githubusercontent.com/jcmljunior/Materia-OSX/master/preview.jpeg" alt="preview"/>
 </p>
