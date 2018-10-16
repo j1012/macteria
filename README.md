@@ -7,5 +7,8 @@ Materia OSX is aurorae theme that mimics Yosemite window decoration, with [Mater
 ## Installation:
 Copy theme folders to ~/.local/share/aurorae/themes
 
+## Credits
+Thanks to those who made this project possible. [Alexey Varfolomeev](https://github.com/varlesh), [Andrey Orst](https://github.com/andreyorst/)
+
 ## License
 The Materia OSX is distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
