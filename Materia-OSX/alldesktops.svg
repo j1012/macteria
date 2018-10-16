@@ -14,8 +14,8 @@
    height="29.866667"
    id="svg4428"
    version="1.1"
-   inkscape:version="0.92.0 r"
-   sodipodi:docname="close (1).svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="alldesktops.svg">
   <defs
      id="defs4430">
     <linearGradient
@@ -383,17 +383,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.2453702"
-     inkscape:cx="35.395428"
-     inkscape:cy="12.902578"
+     inkscape:zoom="5.8303572"
+     inkscape:cx="88.573915"
+     inkscape:cy="5.8122645"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="968"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showborder="false"
      inkscape:showpageshadow="false">
@@ -468,9 +468,9 @@
          cy="-460.5625"
          cx="461.86261"
          id="path4179"
-         style="opacity:1;fill:#3d9388;fill-opacity:1;stroke:none;stroke-width:96.4512558;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         rx="144.67691"
-         ry="144.67685"
+         style="opacity:1;fill:#3d9388;fill-opacity:1;stroke:none;stroke-width:105.49356079;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         rx="158.24037"
+         ry="158.2403"
          transform="scale(1,-1)" />
     </g>
     <g
@@ -488,9 +488,9 @@
          inkscape:connector-curvature="0" />
       <ellipse
          transform="scale(1,-1)"
-         ry="144.67619"
-         rx="144.67691"
-         style="opacity:1;fill:#3d9388;fill-opacity:1;stroke:none;stroke-width:96.45103455;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         ry="158.23958"
+         rx="158.24037"
+         style="opacity:1;fill:#3d9388;fill-opacity:1;stroke:none;stroke-width:105.49331665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
          id="path4179-6"
          cx="461.86261"
          cy="-466.21042" />
