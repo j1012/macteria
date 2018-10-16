@@ -14,7 +14,7 @@
    height="29.866667"
    id="svg4428"
    version="1.1"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="restore.svg">
   <defs
      id="defs4430">
@@ -346,16 +346,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="1.802317"
-     inkscape:cy="-9.1087186"
+     inkscape:cx="12.055365"
+     inkscape:cy="5.3869705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="975"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showborder="false"
      inkscape:showpageshadow="false">
@@ -379,7 +379,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -388,10 +388,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1092.653)">
-    <g
-       id="4"
-       inkscape:label="#g3842"
-       transform="translate(86.4,-3.2)" />
     <g
        id="active-center"
        transform="matrix(0.02211836,0,0,-0.02211825,4.7216699,1118.6828)">
