@@ -10,6 +10,7 @@ Available also in [Store KDE](https://store.kde.org/p/1268282/)
 Copy theme folders to ~/.local/share/aurorae/themes
 
 ## Recommendations:
++ [Window Title Applet](https://www.opendesktop.org/p/1274218/)
 + [Window Buttons Applet](https://www.opendesktop.org/p/1272871/)
 + [Window AppMenu Applet](https://www.opendesktop.org/p/1274975/)
 + [Latte Dock](https://store.kde.org/p/1169519/)
