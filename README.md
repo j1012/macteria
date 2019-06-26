@@ -6,18 +6,23 @@ The Materia OSX is aurorae theme that mimics OSX window decoration, with [Materi
 Based on [Breezemite](https://github.com/andreyorst/Breezemite) and [Materia](https://github.com/PapirusDevelopmentTeam/materia-kde).<br>
 Available also in [Store KDE](https://store.kde.org/p/1268282/)
 
-## Installation:
-Copy theme folders to ~/.local/share/aurorae/themes
+<h2 align="center">Installation:</h2>
 
-## Window Button Settings
+```
+Copy theme folders to ~/.local/share/aurorae/themes
+```
+
+<h2 align="center">Window Button Settings</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/window-buttons-settings.png" alt="preview"/>
 </p>
 
+<h2 align="center">Latte Dock</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/latte-dock.jpg" alt="preview"/>
 </p>
 
+<h2 align="center">Latte Dock Panel</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/latte-dock2.jpg" alt="preview"/>
 </p>
