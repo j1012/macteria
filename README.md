@@ -9,11 +9,25 @@ Available also in [Store KDE](https://store.kde.org/p/1268282/)
 ## Installation:
 Copy theme folders to ~/.local/share/aurorae/themes
 
+## Window Button Settings
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/window-buttons-settings.png" alt="preview"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/latte-dock.jpg" alt="preview"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/latte-dock2.jpg" alt="preview"/>
+</p>
+
 ## Recommendations:
 + [Window Title Applet](https://www.opendesktop.org/p/1274218/)
 + [Window Buttons Applet](https://www.opendesktop.org/p/1272871/)
 + [Window AppMenu Applet](https://www.opendesktop.org/p/1274975/)
 + [Latte Dock](https://store.kde.org/p/1169519/)
++ [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/)
 
 ## License
 The Materia OSX is distributed under the terms of the GNU General Public License, version 3.<br>
