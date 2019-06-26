@@ -19,12 +19,7 @@ Copy theme folders to ~/.local/share/aurorae/themes
 
 <h2 align="center">Latte Dock</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/latte-dock.jpg" alt="preview"/>
-</p>
-
-<h2 align="center">Latte Dock Panel</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/latte-dock2.jpg" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/desktop.jpg" alt="preview"/>
 </p>
 
 ## Recommendations:
