@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jcmljunior/Materia-OSX/master/preview.jpeg" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/jcmljunior/Materia-OSX/master/resources/preview.jpeg" alt="preview"/>
 </p>
 
 The Materia OSX is aurorae theme that mimics OSX window decoration, with [Materia](https://github.com/PapirusDevelopmentTeam/materia-kde) colors. <br>
