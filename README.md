@@ -11,17 +11,6 @@ Available also in [Store KDE](https://store.kde.org/p/1268282/)
 ```
 Copy theme folders to ~/.local/share/aurorae/themes
 ```
-
-<h2 align="center">Window Button Settings</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/window-buttons-settings.png" alt="preview"/>
-</p>
-
-<h2 align="center">Latte Dock</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jcmljunior/materia-osx/master/resources/desktop.jpg" alt="preview"/>
-</p>
-
 ## Recommendations:
 + [Window Title Applet](https://www.opendesktop.org/p/1274218/)
 + [Window Buttons Applet](https://www.opendesktop.org/p/1272871/)
