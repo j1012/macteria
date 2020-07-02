@@ -7,6 +7,9 @@ Tema aurorae que imita a decoração de janelas do OS X inspirado nos padrões d
 ### Instalação
 `wget -qO- https://raw.githubusercontent.com/jcmljunior/macteria/master/install.sh | bash`
 
+### Desinstalar
+`wget -qO- https://raw.githubusercontent.com/jcmljunior/macteria/master/uninstall.sh | bash`
+
 ### Licença
 O Macteria é distribuido sob os termos de licença GNU General Public License versão 3. <br>
 Consulte o arquivo de [`LICENÇA`](LICENSE) para mais detalhes.
